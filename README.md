@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayvayron
-- 👀 I’m interested in Web Development.
+- 👀 Machine learning and data science enthusiast!
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ Eagerly looking for collaborations!
 - 📫 If you want to contact me, DM me on Instagram at @jayvayron.
